@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+branch=input("Enter your branch:")
+year=int(input("Enter your year:"))
+print(f"Name of the student:{name}")
+print(f"Branch of the student:{branch}")
+print(f"Year of the student:{year}")
