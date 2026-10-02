@@ -1,0 +1,5 @@
+H=int(input("Enter Hours: "))
+M=int(input("Enter Minutes: "))
+S=int(input("Enter Seconds: "))
+angle=(H*30)+(M/2)+(S/120)
+print(f"The angle of hour hand is {angle} degrees")
