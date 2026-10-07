@@ -1,0 +1,7 @@
+name=str(input("Enter your name: "))
+print(name.upper())
+print(name.lower())
+print(name.strip())
+print(name.replace(name, "Student"))
+print(name.find("a"))
+print(name.count("a"))

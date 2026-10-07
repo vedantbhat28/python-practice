@@ -1,0 +1,6 @@
+marks=int(input("Enter your marks: "))
+print("Equal to 75: ", marks==75)
+print("not Equal to 80: ", marks!=80)
+print("Greater than 50: ", marks>50)
+print("Greater than or equal to: ", marks>=60)
+print("Less than or equal to: ", marks<=60)

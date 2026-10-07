@@ -1,0 +1,5 @@
+print("bitwise OR", 5 | 3)
+print("bitwise AND", 5 & 3)
+print("bitwise XOR", 5 ^ 3)
+print("bitwise NOT", ~5 )
+print("bitwise LEFT SHIFT", 1 << 3)
