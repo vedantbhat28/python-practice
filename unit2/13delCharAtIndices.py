@@ -1,0 +1,10 @@
+#delete char at indices divisible by 3
+s=input("Enter a string: ")
+result=""
+for i in range(len(s)):
+    if i%3!=0:
+        result+=s[i]
+
+print(f"New string: {result}")
+
+        
